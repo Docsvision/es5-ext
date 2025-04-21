@@ -1,8 +1,8 @@
 {
-	"name": "es5-ext",
-	"version": "0.10.64",
-	"description": "ECMAScript extensions and shims",
-	"author": "Mariusz Nowak <medyk@medikoo.com> (http://www.medikoo.com/)",
+	"name": "@docsvision/es5-ext",
+	"version": "0.10.64-beta.1",
+	"description": "Fork es5-ext that removes the code that is being flagged as malicious for DocsVision WebClient. Original repository https://github.com/medikoo/es5-ext.",
+	"author": "Docsvision",
 	"keywords": [
 		"ecmascript",
 		"ecmascript5",
@@ -21,7 +21,7 @@
 		"utils",
 		"utilities"
 	],
-	"repository": "medikoo/es5-ext",
+	"repository": "https://github.com/Docsvision/es5-ext",
 	"dependencies": {
 		"es6-iterator": "^2.0.3",
 		"es6-symbol": "^3.1.3",
