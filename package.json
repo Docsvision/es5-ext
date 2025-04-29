@@ -1,6 +1,6 @@
 {
 	"name": "@docsvision/es5-ext",
-	"version": "0.10.64-beta.1",
+	"version": "0.10.64",
 	"description": "Fork es5-ext that removes the code that is being flagged as malicious for DocsVision WebClient. Original repository https://github.com/medikoo/es5-ext.",
 	"author": "Docsvision",
 	"keywords": [
